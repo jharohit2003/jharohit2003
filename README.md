@@ -1,8 +1,8 @@
 # Hi 👋, I'm Rohit Jha  
 
-💻 **Full-Stack Developer | MERN | API Integrations | AI/ML Enthusiast**  
+💻 **Full-Stack Developer | MERN | API Integrations **  
 
-🔹 Passionate B.Tech CSE student (2022–2026) exploring Full-Stack Development, API Integration, and AI-driven solutions.  
+🔹 Passionate B.Tech CS student (2022–2026) exploring Full-Stack Development, API Integration, and AI-driven solutions.  
 🔹 Skilled in building scalable, high-performance web applications using microservices architecture.  
 🔹 Open to collaboration on innovative tech projects & research!  
 
@@ -18,8 +18,8 @@
 ---
 
 ## 🌟 Projects
-🚀 **[Personalized Remedial Learning System](#)**  
-Designed custom learning plans for slow learners, improving engagement & outcomes.  
+🚀 **[E-Commerce Website](#)**  
+Developed a full-stack e-commerce platform with product catalog, cart, and secure checkout. Implemented user authentication, admin dashboard, and responsive UI using ReactJS, NodeJS, ExpressJS, and MongoDB. 
 
 ♻️ **[Track Waste – Smart Civic Issue Reporter](#)**  
 MERN stack app enabling real-time garbage issue reporting with location updates.  
