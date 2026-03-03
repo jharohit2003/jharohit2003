@@ -69,6 +69,8 @@ Enhanced complaint classification and routing using ML & NLP on text, images, an
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jharohit2003&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=jharohit2003&theme=tokyonight)
+
 ---
 
 ## 🌍 Let's Connect
