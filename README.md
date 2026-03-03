@@ -1,55 +1,82 @@
-# Hi 👋, I'm Rohit Jha  
+# 👋 Hi, I'm Rohit Jha
 
-💻 **Full-Stack Developer | MERN | API Integrations **  
+💻 **Full-Stack Developer | MERN Stack | API Integrations | Problem Solver**
 
-🔹 Passionate B.Tech CS student (2022–2026) exploring Full-Stack Development, API Integration, and AI-driven solutions.  
-🔹 Skilled in building scalable, high-performance web applications using microservices architecture.  
-🔹 Open to collaboration on innovative tech projects & research!  
+I’m a passionate B.Tech Computer Science student (2022–2026) focused on building scalable, high-performance web applications and solving real-world problems through technology.
+
+I enjoy designing clean architectures, integrating APIs, and building systems that are efficient, maintainable, and impactful.
+
+---
+
+## 🚀 What I Do
+
+- 🔹 Build full-stack web applications using the MERN stack  
+- 🔹 Design RESTful APIs & integrate third-party services  
+- 🔹 Develop scalable backend systems  
+- 🔹 Apply AI/ML concepts to practical solutions  
+- 🔹 Continuously refine code quality & architecture  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, Java, Python (basic)  
-- **Frontend:** HTML, CSS, JavaScript, ReactJS, Bootstrap, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL  
-- **Other Tools:** Git, GitHub, REST APIs, WordPress, Debugging, Unit Testing  
+
+### 💻 Languages
+C • Java • JavaScript • Python (Basic)
+
+### 🎨 Frontend
+ReactJS • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+### ⚙️ Backend
+Node.js • Express.js • REST APIs
+
+### 🗄️ Database
+MongoDB • SQL
+
+### 🔧 Tools & Practices
+Git • GitHub • Debugging • Unit Testing • WordPress • API Integration • Clean Code Principles
 
 ---
 
-## 🌟 Projects
-🚀 **[E-Commerce Website](#)**  
-Developed a full-stack e-commerce platform with product catalog, cart, and secure checkout. Implemented user authentication, admin dashboard, and responsive UI using ReactJS, NodeJS, ExpressJS, and MongoDB. 
+## 🌟 Featured Projects
 
-♻️ **[Track Waste – Smart Civic Issue Reporter](#)**  
-MERN stack app enabling real-time garbage issue reporting with location updates.  
+### 🛒 E-Commerce Platform
+Full-stack MERN application with product catalog, cart system, secure authentication, admin dashboard, and responsive UI.  
+**Tech:** ReactJS, NodeJS, ExpressJS, MongoDB
 
-🤟 **[Sign Language Converter](#)**  
-Web-based tool to convert text into sign language visuals for inclusivity.  
+### ♻️ Track Waste – Smart Civic Issue Reporter
+Real-time civic issue reporting platform with image upload and location tracking.  
+**Tech:** MERN Stack
 
-🚉 **[AI-Powered Rail Madad Complaint System](#)**  
-Enhanced complaint classification & routing using ML + NLP on text, images, and videos.  
+### 🤟 Sign Language Converter
+Web-based accessibility tool that converts text into sign language visuals to promote inclusivity.
+
+### 🚉 AI-Powered Rail Madad Complaint System
+Enhanced complaint classification and routing using ML & NLP on text, images, and videos.
 
 ---
 
 ## 📜 Certifications
-- 🐍 Python Programming (ITRONIX SOLUTIONS)  
-- 🌐 HTML & CSS for Web Developers (The Digital Adda)  
-- 📊 Data Analytics Using Python (Skillrisers Infotech Pvt. Ltd.)  
+
+- 🐍 Python Programming – ITRONIX SOLUTIONS  
+- 🌐 HTML & CSS for Web Developers – The Digital Adda  
+- 📊 Data Analytics Using Python – Skillrisers Infotech Pvt. Ltd.
 
 ---
 
-## 📈 GitHub Stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharohit2003&show_icons=true&theme=tokyonight)  
+## 📈 GitHub Insights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jharohit2003&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jharohit2003&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jharohit2003&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-jha-bb4916249)  
+💻 [GitHub](https://github.com/jharohit2003)  
+📧 **Email:** jharohit2222@gmail.com  
 
 ---
 
-## 🌍 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-jha-bb4916249)  
-- 💻 [GitHub](https://github.com/jharohit2003)  
-- 📧 Email: jharohit2222@gmail.com  
-
----
-⭐ *“Code. Build. Learn. Share.”*  
+⭐ *Always learning. Always building. Always improving.*
