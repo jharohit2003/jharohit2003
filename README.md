@@ -98,10 +98,6 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharohit2003&layout=compact&theme=dark&bg_color=0d1117&title_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" width="50%">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jharohit2003&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" width="100%">
-
 ![Snake animation](https://raw.githubusercontent.com/jharohit2003/jharohit2003/output/github-snake-dark.svg)
 
 </div>
